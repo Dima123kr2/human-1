@@ -10,4 +10,18 @@ Merge remote-tracking branch 'origin/buttons' into 'boots/button'
 fix readme
 
 Количество коммитов: 11
-+1 коммит, в котором я добавил количество коммитов
++2 коммита, в которых я добавил количество коммитов и их названия
+
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+1
+2
+3
