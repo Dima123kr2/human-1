@@ -8,3 +8,6 @@ Merge remote-tracking branch 'origin/hat'
 Merge remote-tracking branch 'origin/boots' into 'boots/button'
 Merge remote-tracking branch 'origin/buttons' into 'boots/button'
 fix readme
+
+Количество коммитов: 11
++1 коммит, в котором я добавил количество коммитов
